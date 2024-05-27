@@ -1,5 +1,5 @@
 # Recency Frequency Monetary Analysis 
-Dashboard created for this analys can be found here [Tableu Dashboard](https://public.tableau.com/views/RMF_Analys/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+Dashboard created for this analys can be found here [Tableau Dashboard](https://public.tableau.com/views/RMF_Analys/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
 This project involves conducting RFM (Recency, Frequency, Monetary) analysis and customer segmentation based on the provided dataset.
 
